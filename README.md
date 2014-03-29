@@ -1,4 +1,4 @@
-Caishen integration/staging tree
+CaiShen 
 ================================
 
 http://www.caishencoin.org
