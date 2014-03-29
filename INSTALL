@@ -1,0 +1,12 @@
+Building Caishen
+
+See doc/readme-qt.rst for instructions on building Caishen-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Caishen.
+
+See doc/build-*.txt for instructions on building caishend,
+the intended-for-services, no-graphical-interface, reference
+implementation of Caishen.
+
+Further build information and documentation is available at
+the official Caishen website, http://www.caishen.org
