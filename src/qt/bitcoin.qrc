@@ -50,6 +50,7 @@
     <qresource prefix="/movies">
         <file alias="update_spinner">res/movies/update_spinner.mng</file>
     </qresource>
+<<<<<<< HEAD
     <qresource prefix="/translations">
         <file alias="en">locale/bitcoin_en.qm</file>
         <file alias="bg">locale/bitcoin_bg.qm</file>
@@ -86,5 +87,14 @@
         <file alias="uk">locale/bitcoin_uk.qm</file>
         <file alias="zh_CN">locale/bitcoin_zh_CN.qm</file>
         <file alias="zh_TW">locale/bitcoin_zh_TW.qm</file>
+=======
+    <qresource prefix="/translations">  
+        <file alias="en">locale/bitcoin_en.ts</file>
+		<file alias="pl">locale/bitcoin_pl.ts</file>
+		<file alias="pl">locale/bitcoin_de.ts</file>
+		<file alias="pl">locale/bitcoin_es.ts</file>
+		<file alias="pl">locale/bitcoin_fr.ts</file>
+		<file alias="pl">locale/bitcoin_el_GR.ts</file>
+>>>>>>> 1e6d32098681875460af8426ae31d069809c642a
     </qresource>
 </RCC>
