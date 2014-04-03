@@ -1,4 +1,4 @@
-<RCC>
+<!DOCTYPE RCC><RCC version="1.0">
     <qresource prefix="/icons">
         <file alias="bitcoin">res/icons/caishen.png</file>
         <file alias="address-book">res/icons/address-book.png</file>
@@ -51,11 +51,11 @@
         <file alias="update_spinner">res/movies/update_spinner.mng</file>
     </qresource>
     <qresource prefix="/translations">
-        <file alias="en">locale/bitcoin_en.ts</file>
-        <file alias="pl">locale/bitcoin_pl.ts</file>
-        <file alias="pl">locale/bitcoin_de.ts</file>
-        <file alias="pl">locale/bitcoin_es.ts</file>
-        <file alias="pl">locale/bitcoin_fr.ts</file>
-        <file alias="pl">locale/bitcoin_el_GR.ts</file>
+        <file alias="en">locale/bitcoin_en.qm</file>
+        <file alias="pl">locale/bitcoin_pl.qm</file>
+        <file alias="pl">locale/bitcoin_de.qm</file>
+        <file alias="pl">locale/bitcoin_es.qm</file>
+        <file alias="pl">locale/bitcoin_fr.qm</file>
+        <file alias="pl">locale/bitcoin_el_GR.qm</file>
     </qresource>
 </RCC>
