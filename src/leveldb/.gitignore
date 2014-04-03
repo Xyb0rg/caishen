@@ -3,6 +3,7 @@ build_config.mk
 *.so
 *.so.*
 *_test
+*.a
 db_bench
 leveldbutil
 Release
