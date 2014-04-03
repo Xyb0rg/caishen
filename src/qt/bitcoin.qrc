@@ -86,4 +86,5 @@
         <file alias="uk">locale/bitcoin_uk.ts</file>
         <file alias="zh_CN">locale/bitcoin_zh_CN.ts</file>
         <file alias="zh_TW">locale/bitcoin_zh_TW.ts</file>
+            </qresource>
 </RCC>
